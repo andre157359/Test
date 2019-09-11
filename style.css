@@ -8,13 +8,19 @@ html, body {
   padding: 0;
 }
 
-html .text123, body .text123 {
+.text123 {
   text-align: center;
   color: #6bc16b;
   font-size: 45px;
 }
 
-html .text, body .text {
-  text-align: center;
+.text1 {
+  margin-right: 350px;
+  margin-left: 350px;
+}
+
+.text {
+  font-size: 20px;
+  text-align: justify;
 }
 /*# sourceMappingURL=style.css.map */
